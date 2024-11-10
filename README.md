@@ -3,5 +3,7 @@ A Java project to handle Invoices. Frontend is developed using React and in back
 Steps to run :
 1. have VS code and Intellij iead downloaded.
 2. Should have all dependencies and modules installed.
-3. MySql should be installed
-4. Open Client folder in VS Code and in terminal run the command
+3. MySql should be installed and get all dependencies installed in a folder from Spring Initializer.
+4. Open Client folder in VS Code and in terminal run the command:
+               npm start
+5. In Intellij open Server folder and on top you w
