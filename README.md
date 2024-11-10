@@ -8,5 +8,6 @@ Steps to run :
                npm start
 5. In Intellij open Server folder and on top you will find the Run Button, click and goto the host address.
 
-##This is the look of my application##
+# This is the look of my application
+
 ![image](https://github.com/user-attachments/assets/c7ece985-0f53-46da-be05-82b541944bda)
