@@ -6,4 +6,6 @@ Steps to run :
 3. MySql should be installed and get all dependencies installed in a folder from Spring Initializer.
 4. Open Client folder in VS Code and in terminal run the command:
                npm start
-5. In Intellij open Server folder and on top you w
+5. In Intellij open Server folder and on top you will find the Run Button, click and goto the host address.
+
+
